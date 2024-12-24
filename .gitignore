@@ -1,0 +1,17 @@
+logs/
+
+__pycache__/
+
+checkpoints
+
+output/
+
+training/
+
+*.pkl
+
+*.pth
+
+.DS_Store/*
+
+./M-KGE/IKRL_TransAE/data/analogy/*
